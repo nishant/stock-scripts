@@ -1,5 +1,4 @@
-// yieldmax-all-etfs-analysis.ts
-// Run: npx ts-node yieldmax-all-etfs-analysis.ts
+// Run: npx ts-node yieldmax-etf-analyzer.ts
 // Requires: npm i axios cheerio
 // Node >= 18.17
 

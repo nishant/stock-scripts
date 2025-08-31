@@ -42,7 +42,7 @@ These are strong buys.
 
 Notice that not a single weekly ETF made the list. 
 This suggests that weekly distributions are more volatile and less reliable indicators of sustained growth.
-Doesn't mean they aren't worth buying, but they require a shorter-term focus.
+This doesn't mean they aren't worth buying, but they require a shorter-term focus.
 The next table will be after tightening the criteria to shorter time spans.
 
 ## Potential Medium Risk Entry Points
